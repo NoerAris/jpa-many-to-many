@@ -1,0 +1,1 @@
+CREATE DATABASE jpa_many_to_many
